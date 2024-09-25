@@ -8,6 +8,7 @@ h1 {
   font-size: 60px;
   text-align: center;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  
 }
 
 li{
@@ -15,7 +16,8 @@ li{
   margin: 0 10px 0 0;
   width: 500px;
 }
- 
+
+
 #menu {
   float: center;
 }
@@ -25,14 +27,21 @@ a{
   background-color: #5c5959;
   text-decoration: none;
   padding: 10px;
+  
+}
+
+#containerpage{
+  border: #5c5959, 10px, solid;
 }
 
 #firstline{
   display: flex;
+  
 }
 
 #secondline{
   display: flex;
+  
 }
 
 #thirdline{
@@ -41,22 +50,27 @@ a{
 
 #firstleft{
   background-color: green;
- width: 50%;
+  width: 50%;
+ 
 }
 
 #fisrtright{
   background-color: blue;
   width: 50%;
+  
+  
 }
 
 #secondleft{
   background-color: yellow;
   width: 33.3%;
+  
 }
 
 #secondcenter{
   background-color: purple;
   width: 33.3%;
+  
 }
 
 #secondright{
