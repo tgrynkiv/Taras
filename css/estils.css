@@ -2,6 +2,9 @@
 body {
   background-color: #8c8686;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }  
 
 h1 {
@@ -9,6 +12,13 @@ h1 {
   text-align: center;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   
+}
+
+p {
+
+  font-size: 20px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
 }
 
 li{
@@ -32,6 +42,8 @@ a{
 
 #containerpage{
   border: #5c5959, 10px, solid;
+ 
+
 }
 
 #firstline{
@@ -78,18 +90,15 @@ a{
   width: 33.3%;
 }
 
-#thirdleft{
+#third{
   background-color: aqua;
-  width: 50%;
-}
-
-#thirdright{
-  background-color: greenyellow;
-  width: 50%;
+  width: 100%;
 }
 
 #footer{
   background-color: brown;
   width: 100%;
-  
+  padding: 30px;
+  text-align: center;
+  margin-top: auto;
 }
