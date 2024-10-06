@@ -21,6 +21,11 @@ p {
 
 }
 
+
+#ul{
+text-align: center
+}
+
 li{
   display: inline;
   margin: 0 10px 0 0;
@@ -93,12 +98,8 @@ a{
   width: 100%;
 }
 
-#footer{
-  background-color: brown;
-  text-align: center;
-  margin-top: auto;
-}
-
-#info{
+/*
+info{
   
 }
+*/
