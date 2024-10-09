@@ -203,7 +203,7 @@ margin: 10px;
   color:#ffffff;
 }
 
-@media(min-width: 412px){
+@media(max-width: 412px){
   #feinalogo{
     display: none;
   }
@@ -224,7 +224,7 @@ margin: 10px;
 
 }
 
-@media(min-width: 1080px){
+@media(width: 1080px ){
   #peu{
     background: rgb(17, 14, 80);
     
