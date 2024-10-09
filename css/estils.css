@@ -210,7 +210,7 @@ margin: 10px;
   color:#ffffff;
 }
 
-@media(max-width: 412px){
+@media(width: 412px){
   #feinalogo{
     display: none;
   }
