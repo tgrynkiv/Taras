@@ -155,8 +155,6 @@ margin: 10px;
   margin: 10px;
 }
 
-
-
 #Benvingut{
   font-size: 30px;
   text-align: center;
@@ -205,3 +203,23 @@ margin: 10px;
   color:#ffffff;
 }
 
+@media(max-width: 412px){
+  #feinalogo{
+    display: none;
+  }
+
+  .foto{
+    display: none;
+  }
+
+  #peu{
+    background: black;
+    
+  }
+
+  header{
+    background: black;
+    color: white;
+  }
+
+}
