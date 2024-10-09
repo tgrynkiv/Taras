@@ -21,19 +21,21 @@ p {
 
 }
 
-
 #ul{
 text-align: center
+
 }
 
 li{
   display: inline;
   margin: 0 10px 0 0;
+  
 }
 
 
 #menu {
   float: center;
+  
 }
 
 a{ 
@@ -42,6 +44,10 @@ a{
   text-decoration: none;
   padding: 10px;
   
+}
+
+a:hover{
+  background-color: #1d1c1c ;
 }
 
 #containerpage{
@@ -61,25 +67,25 @@ a{
 
 #thirdline{
   display: flex;
+  
 }
 
 #firstleft{
   background-color: green;
   width: 50%;
- 
+  
 }
 
 #fisrtright{
   background-color: blue;
   width: 50%;
   
-  
 }
 
 #secondleft{
   background-color: yellow;
   width: 33.3%;
-  
+
 }
 
 #secondcenter{
@@ -91,15 +97,32 @@ a{
 #secondright{
   background-color: orange;
   width: 33.3%;
+
 }
 
 #third{
   background-color: aqua;
   width: 100%;
+
 }
 
-/*
-info{
+.foto{
+  width: 20%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 100px;
+  border: 5px solid black;
+  margin-right: 20px;
+}
+
+#info{
+  font-size: 30px;
+  background-color: rgb(118, 122, 122);
+  width: 700px;
+  border: 5px solid black;
+  padding-left: 20px; 
+  margin-left: 10%;
+  margin-top: 20px;
   
 }
-*/
+
