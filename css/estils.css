@@ -13,7 +13,6 @@ header{
   padding-bottom: 30px;
 }
 
-
 h1 {
   font-size: 60px;
   text-align: center;
@@ -60,7 +59,7 @@ a{
   background-color: #5c5959;
   text-decoration: none;
   padding: 10px;
-  
+
 }
 
 a:hover{
@@ -70,7 +69,6 @@ a:hover{
 #containerdades{
   display: flex;
 }
-
 
 #containerpage{
   border: #5c5959, 10px, solid;
@@ -157,8 +155,9 @@ margin: 10px;
   margin: 10px;
 }
 
+
+
 #Benvingut{
- 
   font-size: 30px;
   text-align: center;
 }
@@ -177,5 +176,25 @@ margin: 10px;
   margin-left: 10%;
   margin-top: 100px;
   
+}
+
+#txtfeina{
+  text-align: center;
+  font-weight: normal;
+  color:#ffffff;
+}
+
+.contenedorfeina{
+  display:flex;
+
+
+}
+
+#feinalogo{
+  width: 200px;
+  height: auto;
+  height: auto;
+  float: left;
+
 }
 
