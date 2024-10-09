@@ -34,12 +34,13 @@ p {
 
 nav {
   text-align: center; 
-
+  
 }
 
 #ul{
 
-text-align: center
+text-align: center;
+
 }
 
 li{
@@ -51,6 +52,7 @@ li{
 
 #menu {
   float: center;
+
   
 }
 
@@ -59,7 +61,7 @@ a{
   background-color: #5c5959;
   text-decoration: none;
   padding: 10px;
-
+  
 }
 
 a:hover{
@@ -156,6 +158,11 @@ margin: 10px;
 }
 
 #Benvingut{
+  font-size: 30px;
+  text-align: center;
+}
+
+#Benvingut2{
   font-size: 30px;
   text-align: center;
 }
