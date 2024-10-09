@@ -21,9 +21,20 @@ h1 {
   
 }
 
+h2{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
 p {
   font-size: 20px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+nav {
+  text-align: center; 
 
 }
 
@@ -127,8 +138,34 @@ a:hover{
   
 }
 
+
+#feina1{
+background: grey;
+padding: 10px;
+margin: 10px;
+}
+
+#feina2{
+  background: grey;
+  padding: 10px;
+  margin: 10px;
+}
+
+#feina3{
+  background: grey;
+  padding: 10px;
+  margin: 10px;
+}
+
 #Benvingut{
+ 
   font-size: 30px;
+  text-align: center;
+}
+
+#exp{
+  font-size: 15px;
+  text-align: center;
 }
 
 #info{
